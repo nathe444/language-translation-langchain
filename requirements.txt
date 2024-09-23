@@ -2,7 +2,5 @@ streamlit
 gtts  # For text-to-speech conversion
 PyPDF2  # For extracting text from PDF documents
 python-docx  # For extracting text from Word documents
-langchain  
-langchain_groq
 deep-translator
 langdetect

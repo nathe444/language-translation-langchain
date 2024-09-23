@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv
 from deep_translator import GoogleTranslator
 from gtts import gTTS
 from PyPDF2 import PdfReader
