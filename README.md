@@ -53,4 +53,4 @@ pip install streamlit deep-translator gTTS PyPDF2 python-docx langdetect
 ```
 
 ## Contact
-nathe - natnaelm552@gmail.com
+Email - natnaelm552@gmail.com
